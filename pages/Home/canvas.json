@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 750,
+          "bottomRow": 1060,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -39,7 +39,7 @@
                 "group"
               ],
               "topRow": 0,
-              "bottomRow": 67,
+              "bottomRow": 98,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -64,12 +64,12 @@
                   "widgetName": "Canvas1",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 670,
+                  "bottomRow": 980,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
                   "hideCard": true,
-                  "minHeight": 670,
+                  "minHeight": 980,
                   "parentColumnSpace": 1,
                   "leftColumn": 0,
                   "dynamicBindingPathList": [],
@@ -89,8 +89,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 59,
-                      "bottomRow": 65,
+                      "topRow": 60,
+                      "bottomRow": 64,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -138,10 +138,10 @@
                       "parentId": "mr23r7uk1e",
                       "renderMode": "CANVAS",
                       "isLoading": false,
-                      "originalTopRow": 57,
+                      "originalTopRow": 59,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 61,
+                      "originalBottomRow": 65,
                       "fontSize": "0.8rem",
                       "minDynamicHeight": 4
                     },
@@ -160,8 +160,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 50,
-                      "bottomRow": 54,
+                      "topRow": 49,
+                      "bottomRow": 56,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -210,10 +210,10 @@
                       "parentId": "mr23r7uk1e",
                       "renderMode": "CANVAS",
                       "isLoading": false,
-                      "originalTopRow": 48,
+                      "originalTopRow": 50,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 52,
+                      "originalBottomRow": 54,
                       "fontSize": "0.8rem",
                       "minDynamicHeight": 4
                     },
@@ -233,7 +233,7 @@
                         "label"
                       ],
                       "topRow": 39,
-                      "bottomRow": 45,
+                      "bottomRow": 43,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -281,7 +281,7 @@
                       "originalTopRow": 39,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 43,
+                      "originalBottomRow": 45,
                       "fontSize": "0.8rem",
                       "minDynamicHeight": 4
                     },
@@ -289,7 +289,7 @@
                       "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
                       "iconSVG": "/static/media/icon.9f505595da61a34f563dba82adeb06ec.svg",
                       "onSubmit": "{{openAICompletion.openAICompletion()}}",
-                      "topRow": 21,
+                      "topRow": 20,
                       "labelWidth": "12",
                       "type": "INPUT_WIDGET_V2",
                       "animateLoading": true,
@@ -333,7 +333,7 @@
                         "number",
                         "textarea"
                       ],
-                      "bottomRow": 25,
+                      "bottomRow": 24,
                       "parentRowSpace": 10,
                       "autoFocus": true,
                       "hideCard": false,
@@ -377,8 +377,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 30,
-                      "bottomRow": 34,
+                      "topRow": 29,
+                      "bottomRow": 35,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -443,7 +443,7 @@
                         "label"
                       ],
                       "topRow": 0,
-                      "bottomRow": 20,
+                      "bottomRow": 19,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -499,8 +499,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 26,
-                      "bottomRow": 30,
+                      "topRow": 25,
+                      "bottomRow": 29,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -616,8 +616,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 46,
-                      "bottomRow": 50,
+                      "topRow": 43,
+                      "bottomRow": 47,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -647,7 +647,7 @@
                       "text": "Curie",
                       "key": "al71enwz35",
                       "isDeprecated": false,
-                      "rightColumn": 63,
+                      "rightColumn": 62,
                       "textAlign": "LEFT",
                       "dynamicHeight": "AUTO_HEIGHT",
                       "widgetId": "3cietthiau",
@@ -658,10 +658,10 @@
                       "parentId": "mr23r7uk1e",
                       "renderMode": "CANVAS",
                       "isLoading": false,
-                      "originalTopRow": 44,
+                      "originalTopRow": 46,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 48,
+                      "originalBottomRow": 50,
                       "fontSize": "0.875rem",
                       "minDynamicHeight": 4
                     },
@@ -674,8 +674,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 55,
-                      "bottomRow": 59,
+                      "topRow": 56,
+                      "bottomRow": 60,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -716,12 +716,129 @@
                       "parentId": "mr23r7uk1e",
                       "renderMode": "CANVAS",
                       "isLoading": false,
-                      "originalTopRow": 53,
+                      "originalTopRow": 55,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 57,
+                      "originalBottomRow": 59,
                       "fontSize": "0.875rem",
                       "minDynamicHeight": 4
+                    },
+                    {
+                      "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+                      "widgetName": "Chart1",
+                      "allowScroll": false,
+                      "displayName": "Chart",
+                      "iconSVG": "/static/media/icon.6adbe31ed817fc4bfd66f9f0a6fc105c.svg",
+                      "searchTags": [
+                        "graph",
+                        "visuals",
+                        "visualisations"
+                      ],
+                      "topRow": 64,
+                      "bottomRow": 96,
+                      "parentRowSpace": 10,
+                      "type": "CHART_WIDGET",
+                      "hideCard": false,
+                      "chartData": {
+                        "78ojruuezs": {
+                          "seriesName": "Sales",
+                          "data": [
+                            {
+                              "x": "Product1",
+                              "y": 20000
+                            },
+                            {
+                              "x": "Product2",
+                              "y": 22000
+                            },
+                            {
+                              "x": "Product3",
+                              "y": 32000
+                            }
+                          ]
+                        }
+                      },
+                      "animateLoading": true,
+                      "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+                      "parentColumnSpace": 9.59375,
+                      "leftColumn": 0,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "borderRadius"
+                        },
+                        {
+                          "key": "boxShadow"
+                        },
+                        {
+                          "key": "accentColor"
+                        },
+                        {
+                          "key": "fontFamily"
+                        }
+                      ],
+                      "customFusionChartConfig": {
+                        "type": "column2d",
+                        "dataSource": {
+                          "data": [
+                            {
+                              "label": "Product1",
+                              "value": 20000
+                            },
+                            {
+                              "label": "Product2",
+                              "value": 22000
+                            },
+                            {
+                              "label": "Product3",
+                              "value": 32000
+                            }
+                          ],
+                          "chart": {
+                            "caption": "Sales Report",
+                            "xAxisName": "Product Line",
+                            "yAxisName": "Revenue($)",
+                            "theme": "fusion",
+                            "alignCaptionWithCanvas": 1,
+                            "captionFontSize": "24",
+                            "captionAlignment": "center",
+                            "captionPadding": "20",
+                            "captionFontColor": "#231F20",
+                            "legendIconSides": "4",
+                            "legendIconBgAlpha": "100",
+                            "legendIconAlpha": "100",
+                            "legendPosition": "top",
+                            "canvasPadding": "0",
+                            "chartLeftMargin": "20",
+                            "chartTopMargin": "10",
+                            "chartRightMargin": "40",
+                            "chartBottomMargin": "10",
+                            "xAxisNameFontSize": "14",
+                            "labelFontSize": "12",
+                            "labelFontColor": "#716e6e",
+                            "xAxisNameFontColor": "#716e6e",
+                            "yAxisNameFontSize": "14",
+                            "yAxisValueFontSize": "12",
+                            "yAxisValueFontColor": "#716e6e",
+                            "yAxisNameFontColor": "#716e6e"
+                          }
+                        }
+                      },
+                      "key": "u80lsded6o",
+                      "isDeprecated": false,
+                      "rightColumn": 63,
+                      "widgetId": "rpseeavc76",
+                      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "isVisible": true,
+                      "version": 1,
+                      "parentId": "mr23r7uk1e",
+                      "labelOrientation": "auto",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "yAxisName": "Revenue($)",
+                      "chartName": "Sales Report",
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "xAxisName": "Product Line",
+                      "chartType": "COLUMN_CHART"
                     }
                   ],
                   "key": "sbqnzg4i5g",
@@ -753,7 +870,7 @@
               "originalTopRow": 0,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 63,
+              "originalBottomRow": 67,
               "minDynamicHeight": 10
             }
           ]

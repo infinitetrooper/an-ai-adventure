@@ -11,6 +11,7 @@
   "color": "#FFEFDB",
   "icon": "frame",
   "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
