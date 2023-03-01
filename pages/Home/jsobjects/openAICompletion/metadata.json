@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "openAICompletion",
+    "pageId": "Home",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Home_openAICompletion",
+  "deleted": false,
+  "gitSyncId": "63986ccc038c74195c0ab01a_639ac43d57ef71224576d167"
+}
