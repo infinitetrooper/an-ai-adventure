@@ -19,7 +19,6 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "async () => {\n  {\n    {\n      adaCompletion.run(() => resetWidget(\"adaResponse\", true), () => {});\n    }\n  }\n  {\n    {\n      babbageCompletion.run(() => resetWidget(\"babbageResponse\", true), () => {});\n    }\n  }\n  {\n    {\n      curieCompletion.run(() => resetWidget(\"curieResponse\", true), () => {});\n    }\n  }\n  {\n    {\n      davinciCompletion.run(() => resetWidget(\"davinciResponse\", true), () => {});\n    }\n  }\n}",
       "selfReferencingDataPaths": [],
       "jsArguments": [],
       "isAsync": true
@@ -33,9 +32,6 @@
     "isValid": true,
     "invalids": [],
     "messages": [],
-    "jsonPathKeys": [
-      "async () => {\n  {\n    {\n      adaCompletion.run(() => resetWidget(\"adaResponse\", true), () => {});\n    }\n  }\n  {\n    {\n      babbageCompletion.run(() => resetWidget(\"babbageResponse\", true), () => {});\n    }\n  }\n  {\n    {\n      curieCompletion.run(() => resetWidget(\"curieResponse\", true), () => {});\n    }\n  }\n  {\n    {\n      davinciCompletion.run(() => resetWidget(\"davinciResponse\", true), () => {});\n    }\n  }\n}"
-    ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
